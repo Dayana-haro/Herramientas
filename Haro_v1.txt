@@ -1,3 +1,5 @@
 Versión de código fuente
 El control de versiones es una práctica esencial en el desarrollo de software que permite gestionar y rastrear los cambios en el código fuente a lo largo del tiempo. Actúa como un respaldo valioso, ya que almacena copias del código en diferentes estados, lo que facilita la recuperación ante errores o problemas. Además, permite que varios desarrolladores trabajen simultáneamente en diferentes ramas del mismo proyecto sin interferir entre sí, promoviendo una colaboración eficiente. Con un registro detallado de todas las modificaciones y herramientas para resolver conflictos, los sistemas de control de versiones, como Git, son fundamentales para mejorar la organización y la productividad en los equipos de desarrollo, garantizando que el trabajo se realice de manera fluida y segura. 
  
+
+Greta estuvo aqui
