@@ -2,3 +2,4 @@
 1.1 Una copia del código principal que se utiliza para realizar cambios experimentales
 2. ¿Qué comando se utiliza para ver el historial de commits en Git?
 2.2 git log
+3.¿Cuál es la diferencia entre "merge" y "rebase" en Git?
