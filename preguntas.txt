@@ -5,3 +5,4 @@
 3.¿Cuál es la diferencia entre "merge" y "rebase" en Git?
 3.3 git merge: Combina dos ramas de forma que conserva el historial de ambas y git rebase: Reaplica los cambios de una rama sobre otra, reescribiendo el historial para que parezca que los cambios de la rama se hicieron a partir de una base diferente.
 4. ¿Qué es un "pull request" en GitHub?
+4.4 es una solicitud para integrar los cambios de una rama a otra
