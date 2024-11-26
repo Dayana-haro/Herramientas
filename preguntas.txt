@@ -1,1 +1,3 @@
 1. ¿Qué es una rama (branch) en el contexto del versionamiento?
+1.1 Una copia del código principal que se utiliza para realizar cambios experimentales
+2. ¿Qué comando se utiliza para ver el historial de commits en Git?
