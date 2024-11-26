@@ -1,0 +1,1 @@
+1. ¿Qué es una rama (branch) en el contexto del versionamiento?
