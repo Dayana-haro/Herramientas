@@ -7,3 +7,4 @@
 4. ¿Qué es un "pull request" en GitHub?
 4.4 es una solicitud para integrar los cambios de una rama a otra
 5. ¿Cómo se puede revertir un cambio realizado en el último commit?
+5.5 Utilizando el comando git reset
